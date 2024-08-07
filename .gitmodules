@@ -1,0 +1,18 @@
+[submodule "lib/Adafruit-GFX-Library"]
+	path = lib/Adafruit-GFX-Library
+	url = https://github.com/adafruit/Adafruit-GFX-Library
+[submodule "lib/Adafruit_BusIO"]
+	path = lib/Adafruit_BusIO
+	url = https://github.com/adafruit/Adafruit_BusIO.git
+[submodule "lib/ESP32-HUB75-MatrixPanel-DMA"]
+	path = lib/ESP32-HUB75-MatrixPanel-DMA
+	url = https://github.com/mrcodetastic/ESP32-HUB75-MatrixPanel-DMA
+[submodule "lib/fastLED"]
+	path = lib/fastLED
+	url = https://github.com/FastLED/FastLED
+[submodule "lib/FastLED"]
+	path = lib/FastLED
+	url = https://github.com/FastLED/FastLED
+[submodule "lib/GFX_Lite"]
+	path = lib/GFX_Lite
+	url = https://github.com/mrcodetastic/GFX_Lite
